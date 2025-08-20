@@ -1,23 +1,23 @@
-# ðŸŽ® Client-Side Mods - Doms Extreme Survival Server
+# Client-Side Mods - Doms Extreme Survival Server
 
 This guide covers all the **player-facing mods** on our server. These mods are required to connect and play on our server.
 
-## ðŸ“‹ Quick Reference
+## Quick Reference
 
-- **[âš”ï¸ Combat & Adventure](#ï¸-combat--adventure)**: Combat enhancements and adventure mods
-- **[ðŸ—ï¸ Building & Decoration](#ï¸-building--decoration)**: Building blocks and decorative elements  
-- **[ðŸŒ Exploration & World](#ï¸-exploration--world)**: World generation and mapping tools
-- **[ðŸ› ï¸ Quality of Life](#ï¸-quality-of-life)**: Interface and utility improvements
-- **[ðŸŒ¡ï¸ Survival & Environment](#ï¸-survival--environment)**: Survival mechanics and environmental effects
-- **[ðŸ¦ Creatures & Wildlife](#ï¸-creatures--wildlife)**: New mobs and animal behavior
-- **[ðŸŽ¨ Visual & Audio](#ï¸-visual--audio)**: Graphics and visual enhancements
-- **[ðŸŽ® Gameplay Enhancements](#ï¸-gameplay-enhancements)**: New mechanics and features
-- **[ðŸ“¥ Installation Guide](#-installation-guide)**: How to install these mods
+- **[Combat & Adventure](#combat--adventure)**: Combat enhancements and adventure mods
+- **[Building & Decoration](#building--decoration)**: Building blocks and decorative elements  
+- **[Exploration & World](#exploration--world)**: World generation and mapping tools
+- **[Quality of Life](#quality-of-life)**: Interface and utility improvements
+- **[Survival & Environment](#survival--environment)**: Survival mechanics and environmental effects
+- **[Creatures & Wildlife](#creatures--wildlife)**: New mobs and animal behavior
+- **[Visual & Audio](#visual--audio)**: Graphics and visual enhancements
+- **[Gameplay Enhancements](#gameplay-enhancements)**: New mechanics and features
+- **[Installation Guide](#installation-guide)**: How to install these mods
 
-> **ðŸ’¡ Pro Tip**: Click any mod name to visit its Modrinth page for downloads and detailed info!
+> **Pro Tip**: Click any mod name to visit its Modrinth page for downloads and detailed info!
 
 ---
-## âš”ï¸ Combat & Adventure
+## Combat & Adventure
 
 ### [Adorable Hamster Pets](https://modrinth.com/mod/adorable-hamster-pets)
 
@@ -243,9 +243,9 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 **Required**: Client + Server
 
 ---
-**[â¬†ï¸ Back to Quick Reference](#-client-side-mods---doms-extreme-survival-server)**
+**[Back to Quick Reference](#client-side-mods---doms-extreme-survival-server)**
 
----## ðŸ—ï¸ Building & Decoration
+---## Building & Decoration
 
 ### [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 
@@ -387,9 +387,9 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 **Required**: Client + Server
 
 ---
-**[â¬†ï¸ Back to Quick Reference](#-client-side-mods---doms-extreme-survival-server)**
+**[Back to Quick Reference](#client-side-mods---doms-extreme-survival-server)**
 
----## ðŸŒ Exploration & World
+---## Exploration & World
 
 ### [Chunky](https://modrinth.com/mod/chunky)
 
@@ -545,9 +545,9 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 **Required**: Client + Server
 
 ---
-**[â¬†ï¸ Back to Quick Reference](#-client-side-mods---doms-extreme-survival-server)**
+**[Back to Quick Reference](#client-side-mods---doms-extreme-survival-server)**
 
----## ðŸ› ï¸ Quality of Life
+---## Quality of Life
 
 ### [AppleSkin](https://modrinth.com/mod/appleskin)
 
@@ -787,9 +787,9 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 **Required**: Client + Server
 
 ---
-**[â¬†ï¸ Back to Quick Reference](#-client-side-mods---doms-extreme-survival-server)**
+**[Back to Quick Reference](#client-side-mods---doms-extreme-survival-server)**
 
----## ðŸŒ¡ï¸ Survival & Environment
+---## Survival & Environment
 
 ### [Dehydration](https://modrinth.com/mod/dehydration)
 
@@ -847,9 +847,9 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 **Required**: Client + Server
 
 ---
-**[â¬†ï¸ Back to Quick Reference](#-client-side-mods---doms-extreme-survival-server)**
+**[Back to Quick Reference](#client-side-mods---doms-extreme-survival-server)**
 
----## ðŸ¦ Creatures & Wildlife
+---## Creatures & Wildlife
 
 ### [Birds | Boids Addon](https://modrinth.com/mod/birds-boids-addon)
 
@@ -893,9 +893,9 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 **Required**: Client + Server
 
 ---
-**[â¬†ï¸ Back to Quick Reference](#-client-side-mods---doms-extreme-survival-server)**
+**[Back to Quick Reference](#client-side-mods---doms-extreme-survival-server)**
 
----## ðŸŽ¨ Visual & Audio
+---## Visual & Audio
 
 ### [Player Animation Library](https://modrinth.com/mod/player-animation-library)
 
@@ -911,9 +911,9 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 **Required**: Client Only
 
 ---
-**[â¬†ï¸ Back to Quick Reference](#-client-side-mods---doms-extreme-survival-server)**
+**[Back to Quick Reference](#client-side-mods---doms-extreme-survival-server)**
 
----## ðŸŽ® Gameplay Enhancements
+---## Gameplay Enhancements
 
 ### [Crawl](https://modrinth.com/mod/crawl)
 
@@ -929,9 +929,9 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 **Required**: Client + Server
 
 ---
-**[â¬†ï¸ Back to Quick Reference](#-client-side-mods---doms-extreme-survival-server)**
+**[Back to Quick Reference](#client-side-mods---doms-extreme-survival-server)**
 
----## ðŸ“¥ Installation Guide
+---## Installation Guide
 
 ### Method 1: Manual Installation
 
@@ -957,9 +957,9 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 
 ---
 
-## ðŸŽ¯ Getting Started Tips
+## Getting Started Tips
 
-### ðŸ†• For New Players
+### For New Players
 
 1. **Start with the basics** - Focus on vanilla Minecraft mechanics first
 2. **Install all required mods** - Both Client Only and Client + Server mods are needed
@@ -967,7 +967,7 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 4. **Join the community** - Use Discord for help and collaboration
 5. **Read mod descriptions** - Each mod adds unique features to enhance your experience
 
-### âš¡ For Experienced Players
+### For Experienced Players
 
 1. **Use a modpack** - Consider creating a modpack for easier distribution
 2. **Optimize performance** - Configure mod settings for your system
@@ -977,7 +977,7 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 
 ---
 
-## ðŸ“š Need Help?
+## Need Help?
 
 - **In-Game Commands**: /mods to see installed mods, /guide [modname] for specific help
 - **Discord Community**: Join our server for real-time help and collaboration  
@@ -986,7 +986,7 @@ This guide covers all the **player-facing mods** on our server. These mods are r
 
 ---
 
-## ðŸ“Š Summary
+## Summary
 
 Players need to install **73 mods total**:
 - **15 client-only mods**
@@ -994,6 +994,6 @@ Players need to install **73 mods total**:
 
 ---
 
-*ðŸŽ® **Doms Extreme Survival Server** - Fabric 1.21.1*  
-*ðŸ“… Last Updated: 2025-08-19 22:17:40*  
-*ðŸ”— All mods have clickable links to Modrinth for easy downloads!*
+***Doms Extreme Survival Server** - Fabric 1.21.1*  
+*Last Updated: 2025-08-19 22:27:45*  
+*All mods have clickable links to Modrinth for easy downloads!*
